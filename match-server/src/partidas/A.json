@@ -1,0 +1,97 @@
+{
+  "status": "ended",
+  "players": {
+    "player1": {
+      "nombre": "Silvia",
+      "email": "jeanpr117@gmail.com",
+      "celular": "626",
+      "genero": "F",
+      "expression": "",
+      "bpm": 0,
+      "bateria": null
+    },
+    "player2": {
+      "nombre": "Silvia",
+      "email": "jeanpr117@gmail.com",
+      "celular": "626",
+      "genero": "F",
+      "expression": "",
+      "bpm": 0,
+      "bateria": null
+    }
+  },
+  "debug": false,
+  "video": {
+    "url": "/xms.mp4",
+    "standbyURL": "/standby.png",
+    "progress": 0,
+    "duration": 357.133333,
+    "paused": true,
+    "sections": [
+      {
+        "name": "🟢",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "name": "👶",
+        "start": 3,
+        "end": 73
+      },
+      {
+        "name": "🧟",
+        "start": 76,
+        "end": 167
+      },
+      {
+        "name": "🛣️",
+        "start": 168,
+        "end": 205
+      },
+      {
+        "name": "🕊️",
+        "start": 205,
+        "end": 246
+      },
+      {
+        "name": "👴",
+        "start": 251,
+        "end": 342
+      },
+      {
+        "name": "🎉",
+        "start": 345,
+        "end": 350
+      },
+      {
+        "name": "💓",
+        "start": 345,
+        "end": 350
+      }
+    ]
+  },
+  "online": {
+    "players": true,
+    "consola": true,
+    "TV": true
+  },
+  "playersReady": true,
+  "id": "b314uPwJJ7",
+  "heartRate": {
+    "fake": false,
+    "devices": [
+      {
+        "model": 4,
+        "authKey": "12efa6f67fd328d6c08d90e95534dbf3",
+        "MAC": "F4:7F:80:DF:FE:36",
+        "name": "Band 1"
+      },
+      {
+        "model": 4,
+        "authKey": "c9c2df7cf52bf55085205d36adf9face",
+        "MAC": "E3:2F:20:EC:F4:AE",
+        "name": "Band 2"
+      }
+    ]
+  }
+}

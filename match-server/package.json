@@ -1,0 +1,27 @@
+{
+	"name": "match-server",
+	"version": "1.0.0",
+	"author": "dekru",
+	"description": "",
+	"main": "./dist/index.ts.js",
+	"keywords": [],
+	"licence": "MIT",
+	"scripts": {
+		"start": "ts-node index.ts",
+		"build": "tsc --build",
+		"dev": "ts-node-dev --clear --respawn --exit-child --watch --transpile-only src/index.ts"
+	},
+	"dependencies": {
+		"mongoose": "^8.3.2"
+	},
+	"devDependencies": {
+		"@types/express": "^4.17.21",
+		"@types/mongoose": "^5.11.97",
+		"@types/node": "^20.12.7",
+		"@types/socket.io": "^3.0.2",
+		"express": "^4.19.2",
+		"socket.io": "^4.7.5",
+		"ts-node-dev": "^2.0.0",
+		"typescript": "^5.4.5"
+	}
+}
